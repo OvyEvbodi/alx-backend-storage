@@ -1,1 +1,6 @@
 ls
+.codesandbox
+mongoenv
+*main.py
+requirements.txt
+*cert*
