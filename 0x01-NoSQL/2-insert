@@ -1,2 +1,2 @@
 // insert a document in mongodb
-db.school.insert({$set : {name : 'mongo'}})
+db.school.insert({name : 'mongo'})
